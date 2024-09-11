@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">👩‍💻  About Me <br><br>MERN STACK DEVELOPER<br>I have 1 year of strong experience as a MERN developer with a solid understanding of back-end technologies, MVC frameworks, Restful web services, and Data Base design. Analyzed business requirements to translate into technical flow and developed web applications using Node.js, Express, MongoDB, and React ( Redux, Saga, and Hooks )<br><br><br>Front End Developer, specializing in JavaScript, React JS, HTML5, CSS3, JavaScript ES6, Tailwind CSS, Bootstrap 5, React Bootstrap, Daisy UI, Flowbite, and Firebase Authentication. I also feel comfortable using Nodejs, Express.JS, creating REST API using MongoDB CRUD, and Secure API using JWT. I am also familiar with Tan Stack or React Query and AXIOS.</p>
+<p align="left">👩‍💻  About Me <br><br>MERN STACK DEVELOPER<br>I have 4 years of strong experience as a MERN developer with a solid understanding of back-end technologies, MVC & modules frameworks, Restful web services, and Data Base design. Analyzed business requirements to translate into technical flow and developed web applications using Node.js, Express, MongoDB, and React ( Redux, Saga, and Hooks )<br><br><br>Front End Developer, specializing in JavaScript, TypeScript, React JS, HTML5, CSS3, JavaScript ES6, Tailwind CSS, Bootstrap 5, React Bootstrap, Daisy UI, AntD, Flowbite, and Firebase Authentication. I also feel comfortable using Nodejs, Express.JS, creating REST API using MongoDB CRUD, and Secure API using JWT. I am also familiar with Tan Stack or React Query and AXIOS.</p>
 
 ###
 
