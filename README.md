@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQE2CDZQ4m66qA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695757966910?e=1774483200&v=beta&t=pKtWb8MlN7TdX8Gv8GaH4BYBKIMf0NCD0egWEc-VdWo"  />
 </div>
 
 ###
@@ -21,15 +21,15 @@
 
 ###
 
-<p align="left">👩‍💻  About Me <br><br>MERN STACK DEVELOPER<br>I have 4 years of strong experience as a MERN developer with a solid understanding of back-end technologies, MVC & modules frameworks, Restful web services, and Data Base design. Analyzed business requirements to translate into technical flow and developed web applications using Node.js, Express, MongoDB, and React ( Redux, Saga, and Hooks )<br><br><br>Front End Developer, specializing in JavaScript, TypeScript, React JS, HTML5, CSS3, JavaScript ES6, Tailwind CSS, Bootstrap 5, React Bootstrap, Daisy UI, AntD, Flowbite, and Firebase Authentication. I also feel comfortable using Nodejs, Express.JS, creating REST API using MongoDB CRUD, and Secure API using JWT. I am also familiar with Tan Stack or React Query and AXIOS.</p>
+<p align="left">👨‍💻  About Me <br><br>MERN STACK & Full Stack Developer | DevOps Engineer <br>With **5+ years of strong experience**, I specialize in building robust web applications, scalable business solutions, and high-performance systems. My expertise covers **frontend & backend development, cloud deployment, database design, and DevOps pipelines**. I provide complete solutions using modern technologies like Node.js, Express, MongoDB, Prisma, SQL/AQL databases, React (Redux, Saga, Hooks), Docker, and RESTful APIs.<br><br>I have extensive experience in frontend development using **JavaScript, TypeScript, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap 5, React Bootstrap, DaisyUI, AntD, Flowbite, Firebase Authentication**, and backend development including Node.js, Express.js, creating secure APIs with JWT, database design and management, Prisma ORM, and cloud/deployment setups. I also work with **TanStack Query, AXIOS**, and CI/CD pipelines.</p>
 
 ###
 
-<h4 align="left">I'm ... from ....<br><br>- 🔭 I’m working as  MERN Stack Developer<br>- 📚 I'm currently learning TypeScript and Next.js</h4>
+<h4 align="left">I'm ... from ....<br><br>- 🔭 I’m working as MERN Stack & DevOps Engineer<br>- 📚 I'm continuously learning **Next.js, advanced database solutions, and business automation tools**</h4>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language, Tools & Technologies</h3>
 
 ###
 
@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -60,7 +62,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
 </div>
@@ -69,4 +73,5 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+---
+
