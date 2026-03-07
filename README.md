@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg"  />
+  <img height="150" src="https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg"  />
 </div>
 
 ###
@@ -17,7 +17,8 @@
 
 ###
 
-#i am shariful
+
+<h1 align="center">I am Shariful</h1>
 
 <h1 align="center"></h1>
 
